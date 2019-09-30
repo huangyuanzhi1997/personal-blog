@@ -2,7 +2,7 @@
 
 ## 项目技术
 
-
+博客系统技术有：Nodejs + Hexo + Next + Git + GitHub 
 
 
 
