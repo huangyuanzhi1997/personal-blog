@@ -2,7 +2,7 @@
 
 ## 项目技术
 
-博客系统技术有：Nodejs + Hexo + NexT + Git + GitHub 等，使用阿里云注册域名， GitHub + Coding作服务器。
+博客系统技术有：Nodejs + Hexo + NexT + Git + GitHub 等，使用阿里云注册域名， GitHub(海外) + Coding(海内) 作服务器。
 
 未完……
 
